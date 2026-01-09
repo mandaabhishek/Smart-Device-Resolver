@@ -1,0 +1,5 @@
+{
+  "name": "SmartDevice Rx",
+  "description": "AI-powered hardware diagnostic and upgrade recommendation system for laptops and electronic devices.",
+  "requestFramePermissions": []
+}
